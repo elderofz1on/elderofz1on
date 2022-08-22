@@ -1,11 +1,9 @@
 ## Olá, eu sou Wagner👋
 
 <p align='center'>
-<a href="https://www.youtube.com/channel/UC7mPXEnVO7fOGSVfSHEMlFw" target="_blank"><img height="30" src="https://raw.githubusercontent.com/wprodrigues/wprodrigues/master/imagens/youtube.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/wprodrigues/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/wprodrigues/wprodrigues/master/imagens/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/profwagnerrodrigues" target="_blank"><img height="30" src="https://raw.githubusercontent.com/wprodrigues/wprodrigues/master/imagens/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/elderofz1on" target="_blank"><img height="30" src="https://raw.githubusercontent.com/wprodrigues/wprodrigues/master/imagens/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/elderofz1on" target="_blank"><img height="30" src="https://raw.githubusercontent.com/wprodrigues/wprodrigues/master/imagens/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/wprodriguesbr/" target="_blank" ><img height="30" src="https://raw.githubusercontent.com/wprodrigues/wprodrigues/master/imagens/facebook.png"></a>&nbsp;&nbsp;
 </p>
 
 🤖 Hacks & Robots | 👾 Code & Bricks | 🧙‍♂️ Pentester | 🕵️‍ Forense
