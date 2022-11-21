@@ -14,9 +14,9 @@
 
 👨‍💻 - Algumas tecnologias que tenho usados incluem Python & Micropython, Perl, JavaScript, Typescript, Processing, Lua, ESP, Raspberry, BBC micro:bit
 
-💰 - [**Compre agora o livro Programando jogos com micro:bit**](https://hotmart.com/pt-br/marketplace/produtos/programando-jogos-com-microbit)
+📕 - [**Conheça o livro Progrando jogos com micro:bit**](https://hackids.com.br/book-programando-jogos-com-microbit/)
 
-💰 - [**Comprar agora **](https://hotmart.com/pt-br/marketplace/produtos/programando-jogos-com-microbit)
+💰 - [**Compre agora o livro Programando jogos com micro:bit**](https://hotmart.com/pt-br/marketplace/produtos/programando-jogos-com-microbit)
 
 💡 - Atuo no desenvolvimento da placa de expansão [**hack:bit**](https://hackids.com.br/hackbit/) para a BBC micro:bit 
 
