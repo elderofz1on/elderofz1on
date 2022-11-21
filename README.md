@@ -1,7 +1,7 @@
 ## Olá, eu sou Wagner👋
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/wprodrigues/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/elderofz1on/wprodrigues/master/imagens/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/wprodrigues/" target="_blank"><img height="30" src="linked-in-alt.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/elderofz1on" target="_blank"><img height="30" src="https://raw.githubusercontent.com/elderofz1on/wprodrigues/master/imagens/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/elderofz1on" target="_blank"><img height="30" src="https://raw.githubusercontent.com/elderofz1on/wprodrigues/master/imagens/twitter.png"></a>&nbsp;&nbsp;
 </p>
