@@ -16,6 +16,8 @@
 
 📕 - Escrevi o livro [**Progrando jogos com micro:bit**](https://hackids.com.br/book-programando-jogos-com-microbit/)
 
+💰 - [**Comprar agora **](https://hotmart.com/pt-br/marketplace/produtos/programando-jogos-com-microbit)
+
 💡 - Atuo no desenvolvimento da placa de expansão [**hack:bit**](https://hackids.com.br/hackbit/) para a BBC micro:bit 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=elderofz1on&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Wagner github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderofz1on&layout=compact&theme=default&hide_border=true" /></a> |
