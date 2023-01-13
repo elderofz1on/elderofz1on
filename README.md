@@ -10,7 +10,7 @@
 
 ⚡ Aqui vou compartilhar algumas coisas abertas ⚡
 
-🤝 - Sou um desenvolvedor apaixonado em construir tecnologias mais acessíveis às pessoas, principalmente crianças e jovens, enquanto fortalecemos e criamos novas comunidades 🧩
+🤝 - Sou um desenvolvedor apaixonado em construir tecnologias mais acessíveis às pessoas, principalmente jovens, enquanto fortalecemos e criamos novas comunidades 🧩
 
 👨‍💻 - Algumas tecnologias que tenho usado incluem Python & Micropython, Perl, JavaScript, Typescript, Processing, Lua, ESP, Raspberry, BBC micro:bit
 
