@@ -21,7 +21,7 @@
 💻 - [**Importe os projetos do livro para seu Makecode**](https://github.com/elderofz1on/programando-jogos-com-microbit)
 
 
-💡 - Atuo no desenvolvimento da placa de expansão [**hack:bit**](https://hackids.com.br/hackbit/) para a BBC micro:bit 
+💡 - Desenvolvimento da placa de expansão [**hack:bit**](https://hackids.com.br/hackbit/) para a BBC micro:bit, pico:bit e similares
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=elderofz1on&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Wagner github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderofz1on&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
