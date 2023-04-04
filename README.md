@@ -6,7 +6,7 @@
 <a href="https://twitter.com/elderofz1on" target="_blank"><img height="30" src="twitter.svg"></a>&nbsp;&nbsp;
 </p>
 
-🤖 Hacks & Robots | 👾 Code & Bricks | 🧙‍♂️ Pentester | 🕵️‍ Forense
+🎲 Power BI | 🕵️‍ IC | 🤖 Hacks & Robots | 👾 Code & Bricks | 🧙‍♂️ Pentester 
 
 ⚡ Aqui vou compartilhar algumas coisas abertas ⚡
 
