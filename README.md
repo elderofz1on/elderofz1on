@@ -12,7 +12,7 @@
 
 🤝 - Sou um desenvolvedor apaixonado em construir tecnologias mais acessíveis às pessoas, principalmente jovens, enquanto fortalecemos e criamos novas comunidades 🧩
 
-👨‍💻 - Algumas tecnologias que tenho usado incluem Python & Micropython, Perl, JavaScript, Typescript, Processing, Lua, ESP, Raspberry, BBC micro:bit
+👨‍💻 - Algumas tecnologias que tenho usado incluem Python & Micropython, Perl, JavaScript, Typescript, Processing, Lua, ESP, Raspberry, Pi Pico, BBC micro:bit
 
 📕 - [**Conheça o livro Progrando jogos com micro:bit**](https://hackids.com.br/book-programando-jogos-com-microbit/)
 
