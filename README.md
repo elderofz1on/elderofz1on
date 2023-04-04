@@ -14,6 +14,8 @@
 
 👨‍💻 - Algumas tecnologias que tenho usado incluem Python & Micropython, Perl, JavaScript, Typescript, Processing, Lua, ESP, Raspberry, Pi Pico, BBC micro:bit
 
+📕 - [**Conheça o eBook Arcade Zone - Tank com Retro Elecfreaks**](https://hotmart.com/pt-br/marketplace/produtos/arcade-zone-tank/)
+
 📕 - [**Conheça o livro Progrando jogos com micro:bit**](https://hackids.com.br/book-programando-jogos-com-microbit/)
 
 💰 - [**Compre agora o livro Programando jogos com micro:bit**](https://hotmart.com/pt-br/marketplace/produtos/programando-jogos-com-microbit)
