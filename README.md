@@ -5,14 +5,13 @@
 <a href="https://www.instagram.com/wprodriguesbr" target="_blank"><img height="30" src="instagram.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/elderofz1on" target="_blank"><img height="30" src="twitter.svg"></a>&nbsp;&nbsp;
 </p>
-
-🎲 Power BI | 🕵️‍ IC | 🤖 Hacks & Robots | 👾 Code & Bricks | 🧙‍♂️ Pentester 
+🥷Education | 🧙‍♂️ Hacking | 🤖 Robots | 🔎 Investigation | 👾 Code & Bricks | 🎲 Power BI 
 
 ⚡ Aqui vou compartilhar algumas coisas abertas ⚡
 
 🤝 - Sou um desenvolvedor apaixonado em construir tecnologias mais acessíveis às pessoas, principalmente jovens, enquanto fortalecemos e criamos novas comunidades 🧩
 
-👨‍💻 - Algumas tecnologias que tenho usado incluem Python & Micropython, Perl, JavaScript, Typescript, Processing, Lua, ESP, Raspberry, Pi Pico, BBC micro:bit
+👨‍💻 - Algumas tecnologias que tenho usado incluem Python & Micropython, Perl, JavaScript, Typescript, Processing, Lua, ESP, Raspberry, Rasp Pi Pico, BBC micro:bit
 
 📕 - [**Conheça o eBook Arcade Zone - Tank com Retro Elecfreaks**](https://hotmart.com/pt-br/marketplace/produtos/arcade-zone-tank/)
 
