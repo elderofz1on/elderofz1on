@@ -21,6 +21,8 @@
 
 💻 - [**Importe os projetos do livro para seu Makecode**](https://github.com/elderofz1on/programando-jogos-com-microbit)
 
+📕 - [**E se a terra tremer - uma aventura pelo anel de fogo**](https://docs.google.com/presentation/d/e/2PACX-1vTFiMHT3Uz4I6PZAV6NBFnLQAJBGS9e6g53lishC30OoO4bxoTANVr6EiT4tZ2XVU1Q1DLxTlP9XaHb/pub?start=false&loop=false&delayms=3000) 
+Um ebook elaborado a partir do conteúdo do 7º ano. Parte do trabalho final para o CEM 2021
 
 💡 - Desenvolvimento da placa de expansão [**hack:bit**](https://hackids.com.br/hackbit/) para a BBC micro:bit, pico:bit e similares
 
