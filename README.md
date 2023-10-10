@@ -13,7 +13,7 @@
 
 👨‍💻 - Algumas tecnologias que tenho usado incluem Python & Micropython, Perl, JavaScript, Typescript, Processing, Lua, ESP, Raspberry, Rasp Pi Pico, BBC micro:bit
 
-📕 - [**ZionArchive - Repositorio de projetos**](https://github.com/elderofz1on/ZionArchive)
+📕 - [**ZionArchive - Repositorio Academico**](https://github.com/elderofz1on/ZionArchive)
 
 ⚙️ - [**Repositório de projetos apresentados nos cards do Kit Inventores da Hackids - BBC micro:bit & hack:bit**](https://github.com/elderofz1on/inventores)
 
