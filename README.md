@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/wprodriguesbr" target="_blank"><img height="30" src="instagram.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/elderofz1on" target="_blank"><img height="30" src="twitter.svg"></a>&nbsp;&nbsp;
 </p>
-🥷Education | 🧙‍♂️ Hacking | 🤖 Robots | 🔎 Investigation | 👾 Code & Bricks | 🎲 Power BI 
+🥷Education | 🧙‍♂️ Hacking | 🤖 Robots | 👾 Code & Bricks 
 
 ⚡ Aqui vou compartilhar algumas coisas abertas ⚡
 
